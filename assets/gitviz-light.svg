@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="112" viewBox="0 0 390 112" role="img" aria-label="GitViz">
+<rect x="0.5" y="0.5" width="389" height="111" rx="18" fill="none" stroke="#e6e0d4"/>
+<g transform="translate(20 20) scale(0.0703125)"><g transform="translate(100 100) scale(8.24)"><rect x="0.25" y="0.25" width="99.5" height="99.5" rx="22.5" fill="#FFF8E7" stroke="#EADFC2" stroke-width="0.5"/><path d="M26 26 Q28 70 72 72" stroke="#332D23" stroke-width="8" stroke-linecap="round" fill="none"/><path d="M26 26 Q70 28 72 72" stroke="#332D23" stroke-width="6" stroke-linecap="round" fill="none"/><rect x="18.5" y="18.5" width="15" height="15" rx="2.8" transform="rotate(-12 26 26)" fill="#332D23"/><rect x="53" y="32" width="13" height="13" rx="2.4" transform="rotate(-12 59.5 38.5)" fill="#332D23"/><rect x="61.5" y="61.5" width="21" height="21" rx="3.8" transform="rotate(-12 72 72)" fill="#FFB000"/></g></g>
+<text x="104" y="54" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="600" letter-spacing="-0.3" fill="#1f1b14">GitViz</text>
+<text x="104" y="78" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="12" letter-spacing="0.5" fill="#8a8275">soon</text>
+
+</svg>

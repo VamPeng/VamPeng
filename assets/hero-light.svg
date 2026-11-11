@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 800 240" role="img" aria-label="Vam">
+<defs><clipPath id="sky"><rect x="0" y="0" width="800" height="172"/></clipPath></defs>
+<text x="0" y="150" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif" font-size="112" font-weight="700" letter-spacing="-5" fill="#1f1b14">Vam</text>
+<g clip-path="url(#sky)">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0 70" to="0 0" dur="2.4s" begin="0.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    <circle cx="664" cy="172" r="92" fill="#ffb000" opacity="0.10"/>
+    <circle cx="664" cy="172" r="58" fill="#ffb000"/>
+  </g>
+</g>
+<line x1="0" y1="172.5" x2="800" y2="172.5" stroke="#e6e0d4" stroke-width="1"/>
+<g stroke="#ffb000" stroke-linecap="round" stroke-width="3">
+  <line x1="622" y1="186" x2="706" y2="186" opacity="0.55"/>
+  <line x1="638" y1="198" x2="690" y2="198" opacity="0.32"/>
+  <line x1="654" y1="210" x2="674" y2="210" opacity="0.18"/>
+</g>
+<text x="2" y="206" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="1" fill="#8a8275">vambda.com</text>
+</svg>
